@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://rujupeichi.jasondaihl.com/sitemap.xml
